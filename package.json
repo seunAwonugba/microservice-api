@@ -1,0 +1,9 @@
+{
+    "name": "microservice-api-gateway",
+    "private": true,
+    "workspaces": [
+        "gateway",
+        "shared",
+        "services/*"
+    ]
+}
